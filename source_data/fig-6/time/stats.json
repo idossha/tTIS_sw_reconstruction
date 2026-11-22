@@ -1,0 +1,8 @@
+{
+ "rho_ti_max_ti_normal": 0.9490469208211144,
+ "rho_ti_max_hf_max": 0.8343108504398826,
+ "n": 32,
+ "ti_normal_vertices": 56,
+ "inside_ti_max": 44,
+ "right_hemisphere": 9
+}

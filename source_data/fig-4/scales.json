@@ -1,0 +1,31 @@
+{
+  "P_origin_within": {
+    "cmap": "RdBu_r",
+    "vmax": 0.003,
+    "clipped_share": 0.008396797500488187,
+    "label": "\u0394 origin probability (share of waves)"
+  },
+  "P_origin_between": {
+    "cmap": "RdBu_r",
+    "vmax": 0.008,
+    "clipped_share": 0.0,
+    "label": "tTIS \u2212 carrier-only, origin probability (share of waves)"
+  },
+  "P_involve_within": {
+    "cmap": "RdBu_r",
+    "vmin": 0.008,
+    "vmax": 0.042,
+    "cmap_slice": [
+      0.55,
+      1.0
+    ],
+    "clipped_share": 0.011482562908041075,
+    "label": "\u0394 involvement probability (share of waves)"
+  },
+  "P_involve_between": {
+    "cmap": "RdBu_r",
+    "vmax": 0.03,
+    "clipped_share": 0.0077865651239992185,
+    "label": "tTIS \u2212 carrier-only, involvement probability (share of waves)"
+  }
+}

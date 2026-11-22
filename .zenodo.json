@@ -1,0 +1,50 @@
+{
+  "title": "tTIS_sw_reconstruction: figures and tables of \"Transcranial temporal interference stimulation increases slow waves during human NREM sleep\", reproduced from summarized source data",
+  "upload_type": "software",
+  "description": "Drawing scripts, layouts and summarized source data that re-render the main data figures (Figures 3–6) and Table 1 of the paper. Raw and unprocessed data, and the analysis pipeline that summarized them, are available from the corresponding author on reasonable request.",
+  "creators": [
+    {
+      "name": "Haber, Ido",
+      "affiliation": "Department of Biomedical Engineering, University of Wisconsin-Madison, Madison, WI, USA; Department of Psychiatry, University of Wisconsin-Madison, Madison, WI, USA"
+    },
+    {
+      "name": "Schaeffer, Erin L.",
+      "affiliation": "Department of Psychiatry, University of Wisconsin-Madison, Madison, WI, USA; Medical Scientist Training Program, University of Wisconsin-Madison, WI, USA"
+    },
+    {
+      "name": "Bruno, Simone",
+      "affiliation": "Department of Psychiatry, University of Wisconsin-Madison, Madison, WI, USA"
+    },
+    {
+      "name": "Fan, Zhiwei",
+      "affiliation": "Department of Psychiatry, University of Wisconsin-Madison, Madison, WI, USA; International Institute for Integrative Sleep Medicine (WPI-IIIS), Tsukuba Institute for Advanced Research (TIAR), University of Tsukuba, Tsukuba, Japan"
+    },
+    {
+      "name": "Mat, Beril",
+      "affiliation": "Department of Psychiatry, University of Wisconsin-Madison, Madison, WI, USA"
+    },
+    {
+      "name": "Albantakis, Larissa",
+      "affiliation": "Department of Psychiatry, University of Wisconsin-Madison, Madison, WI, USA"
+    },
+    {
+      "name": "Jones, Stephanie G.",
+      "affiliation": "Department of Psychiatry, University of Wisconsin-Madison, Madison, WI, USA"
+    },
+    {
+      "name": "Boly, Melanie",
+      "affiliation": "Department of Neurology, University of Wisconsin-Madison, Madison, WI, USA"
+    },
+    {
+      "name": "Cirelli, Chiara",
+      "affiliation": "Department of Psychiatry, University of Wisconsin-Madison, Madison, WI, USA"
+    },
+    {
+      "name": "Tononi, Giulio",
+      "affiliation": "Department of Psychiatry, University of Wisconsin-Madison, Madison, WI, USA"
+    }
+  ],
+  "license": "BSD-3-Clause",
+  "version": "1.0.0",
+  "keywords": ["temporal interference stimulation", "tTIS", "NREM sleep", "slow waves", "high-density EEG", "source reconstruction", "electric field modeling"]
+}

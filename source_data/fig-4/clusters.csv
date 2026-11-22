@@ -1,0 +1,13 @@
+kind,metric,test,contrast,forming,n_tTIS,n_carrier,n_sig_clusters,n_sig_vertices,min_p,largest_sign,clusters
+P,origin,within_tTIS,stim_vs_pre,p05,32,11,0,0,0.8260347930413917,,nan
+P,origin,within_carrier,stim_vs_pre,p05,32,11,0,0,0.0653869226154769,,nan
+P,origin,between,stim_vs_pre,p05,32,11,0,0,0.586882623475305,,nan
+P,origin,within_tTIS,post_vs_pre,p05,32,11,0,0,0.3185362927414517,,nan
+P,origin,within_carrier,post_vs_pre,p05,32,11,0,0,0.8314337132573485,,nan
+P,origin,between,post_vs_pre,p05,32,11,1,166,0.0271945610877824,+,"entorhinal-lh (46); fusiform-lh (28) [166 v, p 0.027]"
+P,involve,within_tTIS,stim_vs_pre,p05,32,11,2,7487,0.0035992801439712,+,"insula-lh (307); superiortemporal-lh (289) [4048 v, p 0.004]; precuneus-rh (310); superiortemporal-rh (274) [3439 v, p 0.009]"
+P,involve,within_carrier,stim_vs_pre,p05,32,11,1,2616,0.0105978804239152,+,"inferiorparietal-rh (478); lateraloccipital-rh (379) [2616 v, p 0.011]"
+P,involve,between,stim_vs_pre,p05,32,11,0,0,0.0665866826634673,,nan
+P,involve,within_tTIS,post_vs_pre,p05,32,11,2,12405,0.0027994401119776,+,"superiorparietal-rh (524); precuneus-rh (418) [6424 v, p 0.003]; supramarginal-lh (364); rostralmiddlefrontal-lh (353) [5981 v, p 0.005]"
+P,involve,within_carrier,post_vs_pre,p05,32,11,2,7973,0.0023995200959808,+,"inferiorparietal-rh (496); superiorparietal-rh (427) [4839 v, p 0.002]; superiortemporal-lh (329); lateraloccipital-lh (316) [3134 v, p 0.008]"
+P,involve,between,post_vs_pre,p05,32,11,0,0,0.1029794041191761,,nan

@@ -1,0 +1,55 @@
+{
+ "vmin": 0.3,
+ "vmax": 0.8,
+ "cmap": "YlOrRd",
+ "range_inside": {
+  "ti_max_involve_rate_stim_left_lateral": [
+   0.3497067448680352,
+   0.6898826979472141
+  ],
+  "ti_max_involve_rate_stim_left_medial": [
+   0.3497067448680352,
+   0.6898826979472141
+  ],
+  "hf_max_involve_rate_stim_left_lateral": [
+   0.35043988269794724,
+   0.6920821114369502
+  ],
+  "hf_max_involve_rate_stim_left_medial": [
+   0.35043988269794724,
+   0.6920821114369502
+  ],
+  "hf_max_involve_rate_stim_right_medial": [
+   0.3497067448680352,
+   0.7283724340175953
+  ],
+  "hf_max_involve_rate_stim_right_lateral": [
+   0.3497067448680352,
+   0.7283724340175953
+  ],
+  "ti_max_n3_left_lateral": [
+   0.34946830365808534,
+   0.7686102460307943
+  ],
+  "ti_max_n3_left_medial": [
+   0.34946830365808534,
+   0.7686102460307943
+  ],
+  "hf_max_n3_left_lateral": [
+   0.34946830365808534,
+   0.7953795914316759
+  ],
+  "hf_max_n3_left_medial": [
+   0.34946830365808534,
+   0.7953795914316759
+  ],
+  "hf_max_n3_right_medial": [
+   0.34946830365808534,
+   0.6938027602529879
+  ],
+  "hf_max_n3_right_lateral": [
+   0.34946830365808534,
+   0.6938027602529879
+  ]
+ }
+}

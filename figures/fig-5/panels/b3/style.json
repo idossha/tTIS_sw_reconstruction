@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "parts": {
+    "main.ylabel": {
+      "text": "HF$_{max}$ (V/m)"
+    },
+    "main.xtick.*": {
+      "fontsize": 4
+    }
+  }
+}

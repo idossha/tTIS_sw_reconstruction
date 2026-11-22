@@ -1,0 +1,32 @@
+[project]
+name = "ttis-sw-reconstruction"
+version = "1.0.0"
+description = "Figures and tables of the tTIS sleep slow-wave dose-response paper, re-rendered from summarized source data"
+requires-python = ">=3.11"
+dependencies = [
+    "idofig @ git+https://github.com/idossha/idofig@05b660ea0401d56a90430b487245e6cd134bf204",
+    "eegtopo==0.1.1",
+    "matplotlib==3.10.9",
+    "nilearn==0.13.1",
+    "numpy==2.4.6",
+    "pandas==3.0.3",
+    "pillow==12.2.0",
+    "resvg-py==0.5.0",
+    "scipy==1.17.1",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+package-dir = {"" = "code"}
+py-modules = ["project"]
+
+[tool.setuptools.packages.find]
+where = ["code"]
+include = ["plotting*"]
+
+[tool.idofig]
+figures = "figures"
+journal = "suna"

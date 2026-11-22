@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "parts": {
+    "main.title": {
+      "text": "Regional variability"
+    },
+    "main.legend": {
+      "dx_mm": -1.5
+    }
+  }
+}

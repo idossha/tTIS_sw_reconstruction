@@ -1,0 +1,89 @@
+{
+  "schema": 3,
+  "id": "fig-3",
+  "width": {
+    "mm": 178
+  },
+  "letters": {
+    "size_pt": 9,
+    "weight": "bold",
+    "case": "upper"
+  },
+  "producers": [
+    {
+      "id": "make",
+      "run": [
+        "python",
+        "figures/fig-3/make.py"
+      ],
+      "inputs": [
+        "source_data/fig-3/montage.csv",
+        "source_data/fig-3/density_maps.npz",
+        "source_data/fig-3/density_trend.csv",
+        "source_data/fig-3/waveforms.csv",
+        "source_data/fig-3/forest.csv",
+        "source_data/fig-3/depth.csv",
+        "source_data/fig-3/stage.csv",
+        "source_data/fig-3/stage_change.csv",
+        "source_data/fig-3/bh_families.csv"
+      ],
+      "panels": [
+        "stim",
+        "post",
+        "waves",
+        "forest"
+      ]
+    }
+  ],
+  "panels": [
+    {
+      "id": "stim",
+      "letter": "A",
+      "place": {
+        "x": 0,
+        "y": 0,
+        "w": 178,
+        "h": 68
+      },
+      "letter_offset_mm": [
+        0,
+        1.5
+      ]
+    },
+    {
+      "id": "post",
+      "letter": "B",
+      "place": {
+        "x": 0,
+        "y": 68,
+        "w": 178,
+        "h": 68
+      },
+      "letter_offset_mm": [
+        0,
+        1.5
+      ]
+    },
+    {
+      "id": "waves",
+      "letter": "C",
+      "place": {
+        "x": 0,
+        "y": 135.5,
+        "w": 88,
+        "h": 70
+      }
+    },
+    {
+      "id": "forest",
+      "letter": "D",
+      "place": {
+        "x": 90,
+        "y": 135.5,
+        "w": 88,
+        "h": 70
+      }
+    }
+  ],
+  "annotations": []
+}

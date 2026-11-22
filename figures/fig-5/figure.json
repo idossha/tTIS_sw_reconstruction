@@ -1,0 +1,200 @@
+{
+  "schema": 3,
+  "id": "fig-5",
+  "width": {
+    "mm": 178
+  },
+  "letters": {
+    "size_pt": 9,
+    "weight": "bold",
+    "case": "upper"
+  },
+  "producers": [
+    {
+      "id": "make",
+      "run": [
+        "python",
+        "figures/fig-5/make.py"
+      ],
+      "inputs": [
+        "source_data/fig-5/insula_cv.csv",
+        "source_data/fig-5/intersubject_corr.npz",
+        "source_data/fig-5/maps.json",
+        "source_data/fig-5/region_cv.csv",
+        "source_data/fig-5/region_subjects.csv",
+        "source_data/fig-5/regions.csv",
+        "source_data/fig-5/surf_hf_max_left_lateral.png",
+        "source_data/fig-5/surf_hf_max_left_medial.png",
+        "source_data/fig-5/surf_hf_max_right_lateral.png",
+        "source_data/fig-5/surf_hf_max_right_medial.png",
+        "source_data/fig-5/surf_ti_max_left_lateral.png",
+        "source_data/fig-5/surf_ti_max_left_medial.png",
+        "source_data/fig-5/surf_ti_max_right_lateral.png",
+        "source_data/fig-5/surf_ti_max_right_medial.png",
+        "source_data/fig-5/surf_ti_normal_left_lateral.png",
+        "source_data/fig-5/surf_ti_normal_left_medial.png",
+        "source_data/fig-5/surf_ti_normal_right_lateral.png",
+        "source_data/fig-5/surf_ti_normal_right_medial.png"
+      ],
+      "panels": [
+        "a1",
+        "a2",
+        "a3",
+        "b1",
+        "b2",
+        "b3",
+        "c",
+        "d",
+        "e",
+        "f",
+        "g"
+      ],
+      "cost": "cheap"
+    }
+  ],
+  "panels": [
+    {
+      "id": "a1",
+      "letter": "A1",
+      "place": {
+        "x": 0.0,
+        "y": 0.0,
+        "w": 54.0,
+        "h": 48.0
+      },
+      "letter_offset_mm": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "a2",
+      "letter": "A2",
+      "place": {
+        "x": 0.0,
+        "y": 48.0,
+        "w": 54.0,
+        "h": 48.0
+      },
+      "letter_offset_mm": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "a3",
+      "letter": "A3",
+      "place": {
+        "x": 0.0,
+        "y": 96.0,
+        "w": 54.0,
+        "h": 48.0
+      },
+      "letter_offset_mm": [
+        0,
+        2
+      ]
+    },
+    {
+      "id": "b1",
+      "letter": "B1",
+      "place": {
+        "x": 54.5,
+        "y": 0.0,
+        "w": 123.5,
+        "h": 48.0
+      },
+      "letter_offset_mm": [
+        -2,
+        2
+      ]
+    },
+    {
+      "id": "b2",
+      "letter": "B2",
+      "place": {
+        "x": 54.5,
+        "y": 48.0,
+        "w": 123.5,
+        "h": 48.0
+      },
+      "letter_offset_mm": [
+        -2,
+        2
+      ]
+    },
+    {
+      "id": "b3",
+      "letter": "B3",
+      "place": {
+        "x": 54.5,
+        "y": 96.0,
+        "w": 123.5,
+        "h": 48.0
+      },
+      "letter_offset_mm": [
+        -2,
+        2
+      ]
+    },
+    {
+      "id": "c",
+      "letter": "C",
+      "place": {
+        "x": 0.0,
+        "y": 144.0,
+        "w": 32.0,
+        "h": 41.0
+      }
+    },
+    {
+      "id": "d",
+      "letter": "D",
+      "place": {
+        "x": 33.9,
+        "y": 144.0,
+        "w": 30.0,
+        "h": 41.0
+      }
+    },
+    {
+      "id": "e",
+      "letter": "E",
+      "place": {
+        "x": 65.2,
+        "y": 144.0,
+        "w": 40.0,
+        "h": 41.0
+      }
+    },
+    {
+      "id": "f",
+      "letter": "F",
+      "place": {
+        "x": 104.7,
+        "y": 144.0,
+        "w": 36.2,
+        "h": 41.0
+      },
+      "letter_offset_mm": [
+        2.85,
+        0
+      ]
+    },
+    {
+      "id": "g",
+      "letter": "G",
+      "place": {
+        "x": 141.78,
+        "y": 144.0,
+        "w": 36.2,
+        "h": 41.0
+      },
+      "letter_offset_mm": [
+        1.48,
+        0
+      ]
+    }
+  ],
+  "annotations": []
+}

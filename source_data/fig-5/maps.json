@@ -1,0 +1,20 @@
+{
+  "n_subjects": 32,
+  "metrics": {
+    "ti_max": {
+      "vmin": 0.0,
+      "vmax": 0.5947636202933642,
+      "cmap": "inferno"
+    },
+    "ti_normal": {
+      "vmin": 0.0,
+      "vmax": 0.35787201009314046,
+      "cmap": "inferno"
+    },
+    "hf_max": {
+      "vmin": 0.0,
+      "vmax": 1.2277523793152159,
+      "cmap": "inferno"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+family,test,p,q,changes
+fig4,"B between arms, stim",0.365656,0.46538,False
+fig4,"B within tTIS, stim",0.0023907,0.00669396,False
+fig4,"C amplitude, tTIS, stim",0.000361868,0.00168872,False
+fig4,"D rate, tTIS, stim",0.845242,0.845242,False
+fig4,"B within carrier-only, stim",0.00683594,0.0119629,False
+fig4,"C amplitude, carrier-only, stim",0.00374608,0.00749217,False
+fig4,"D rate, carrier-only, stim",6.66145e-05,0.000932603,False
+fig4,"B between arms, post",0.29657,0.415198,False
+fig4,"B within tTIS, post",0.00154797,0.00541789,False
+fig4,"C amplitude, tTIS, post",0.000163719,0.00114603,False
+fig4,"D rate, tTIS, post",0.784887,0.845242,False
+fig4,"B within carrier-only, post",0.00292969,0.00683594,False
+fig4,"C amplitude, carrier-only, post",0.0319628,0.0497199,False
+fig4,"D rate, carrier-only, post",0.611542,0.713466,False
+n3_dose,vertex map ti_normal,0.0019996,0.0112644,False
+n3_dose,vertex map ti_max,0.00239952,0.0112644,False
+n3_dose,vertex map hf_max,0.00259948,0.0112644,False
+n3_dose,"whole cortex ti_max d_stim, tTIS",0.0154155,0.0286288,False
+n3_dose,"whole cortex ti_max d_stim, arm difference",0.189781,0.224287,False
+n3_dose,"whole cortex ti_max d_post, tTIS",0.258838,0.280408,False
+n3_dose,"whole cortex ti_max d_post, arm difference",0.0430957,0.0560244,True
+n3_dose,"whole cortex hf_max d_stim, tTIS",0.00832921,0.0257374,False
+n3_dose,"whole cortex hf_max d_stim, arm difference",0.0205979,0.0334716,False
+n3_dose,"whole cortex hf_max d_post, tTIS",0.304615,0.304615,False
+n3_dose,"whole cortex hf_max d_post, arm difference",0.040096,0.0560244,True
+n3_dose,time course TI_max,0.0121988,0.0264307,False
+n3_dose,time course HF_max,0.00989901,0.0257374,False
+dose_p,ti_max.involve.stim,0.420916,0.907704,False
+dose_p,ti_max.involve.post,0.711858,0.919216,False
+dose_p,ti_max.origin.stim,0.519496,0.907704,False
+dose_p,ti_max.origin.post,0.495101,0.907704,False
+dose_p,ti_normal.involve.stim,0.0235953,0.283143,True
+dose_p,ti_normal.involve.post,0.529494,0.907704,False
+dose_p,ti_normal.origin.stim,0.773845,0.919216,False
+dose_p,ti_normal.origin.post,0.759648,0.919216,False
+dose_p,hf_max.involve.stim,0.116777,0.591882,False
+dose_p,hf_max.involve.post,0.864227,0.919216,False
+dose_p,hf_max.origin.stim,0.919216,0.919216,False
+dose_p,hf_max.origin.post,0.14797,0.591882,False

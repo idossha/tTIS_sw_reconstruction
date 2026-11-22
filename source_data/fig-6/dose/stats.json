@@ -1,0 +1,34 @@
+{
+ "median_ti_max": 0.2372424736049092,
+ "groups": {
+  "tTIS, higher dose": 16,
+  "tTIS, lower dose": 16,
+  "carrier-only": 11
+ },
+ "global": {
+  "ti_max": {
+   "dose": "ti_max",
+   "outcome": "d_stim",
+   "rho_tTIS": 0.42464249279754746,
+   "lo": 0.04315235751421306,
+   "hi": 0.7288731624848562,
+   "p_tTIS": 0.015415498919940263,
+   "rho_carrier": -0.06363636363636364,
+   "p_arm_difference": 0.1897810218978102
+  },
+  "hf_max": {
+   "dose": "hf_max",
+   "outcome": "d_stim",
+   "rho_tTIS": 0.45837920206989147,
+   "lo": 0.07677244648963438,
+   "hi": 0.7464390887447226,
+   "p_tTIS": 0.00832921481321083,
+   "rho_carrier": -0.38181818181818183,
+   "p_arm_difference": 0.020597940205979402
+  }
+ },
+ "dose_arms": {
+  "ti_max": 0.4276026751086397,
+  "hf_max": 0.3510904762778507
+ }
+}

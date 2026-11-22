@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "parts": {
+    "main.ylabel": {
+      "dx_mm": 0.5,
+      "text": "TI$_{normal}$ (V/m)"
+    },
+    "main.xtick.*": {
+      "fontsize": 4
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema": 2,
+  "id": "fig-4",
+  "width": {
+    "mm": 178
+  },
+  "letters": {
+    "size_pt": 9,
+    "weight": "bold",
+    "case": "upper"
+  },
+  "producers": [
+    {
+      "id": "make",
+      "run": [
+        "python",
+        "figures/fig-4/make.py"
+      ],
+      "inputs": [
+        "source_data/fig-4/*.png",
+        "source_data/fig-4/clusters.csv",
+        "source_data/fig-4/scales.json",
+        "source_data/fig-4/participants.csv",
+        "source_data/fig-4/participants_stats.json",
+        "source_data/fig-4/explore_bh.csv"
+      ],
+      "panels": [
+        "involve",
+        "change",
+        "amp",
+        "rate"
+      ]
+    }
+  ],
+  "panels": [
+    {
+      "id": "involve",
+      "letter": "A",
+      "place": {
+        "x": 0,
+        "y": 0,
+        "w": 178,
+        "h": 81
+      }
+    },
+    {
+      "id": "change",
+      "letter": "B",
+      "place": {
+        "x": 0,
+        "y": 84,
+        "w": 50,
+        "h": 52
+      }
+    },
+    {
+      "id": "amp",
+      "letter": "C",
+      "place": {
+        "x": 51,
+        "y": 84,
+        "w": 63,
+        "h": 52
+      }
+    },
+    {
+      "id": "rate",
+      "letter": "D",
+      "place": {
+        "x": 115,
+        "y": 84,
+        "w": 63,
+        "h": 52
+      }
+    }
+  ],
+  "annotations": []
+}

@@ -1,0 +1,8 @@
+# environments
+.venv/
+__pycache__/
+*.egg-info/
+.DS_Store
+
+# reproduced figures (./reproduce.sh)
+output/

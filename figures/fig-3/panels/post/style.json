@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "parts": {
+    "pooled-title": {
+      "text": "Average"
+    },
+    "trend.ylabel": {
+      "dx_mm": 2
+    }
+  }
+}

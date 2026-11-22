@@ -1,0 +1,96 @@
+{
+ "vmin": 0.3,
+ "vmax": 0.8,
+ "cmap": "YlOrRd",
+ "forming_p": 0.01,
+ "focality": {
+  "ti_normal": {
+   "rho_tTIS": 0.174918,
+   "p_tTIS": 0.338302,
+   "lo": -0.195224,
+   "hi": 0.532729,
+   "rho_carrier": null,
+   "p_arm_difference": null
+  },
+  "ti_max": {
+   "rho_tTIS": 0.372204,
+   "p_tTIS": 0.0359253,
+   "lo": 0.0227743,
+   "hi": 0.635286,
+   "rho_carrier": -0.427273,
+   "p_arm_difference": 0.0157968
+  },
+  "hf_max": {
+   "rho_tTIS": -0.376604,
+   "p_tTIS": 0.0336231,
+   "lo": -0.629311,
+   "hi": -0.042855,
+   "rho_carrier": 0.136364,
+   "p_arm_difference": 0.15097
+  }
+ },
+ "maps": {
+  "ti_normal": {
+   "clusters": [
+    {
+     "n_vertices": 37,
+     "p": 0.001999600079984003,
+     "in_left_insula": 37
+    },
+    {
+     "n_vertices": 10,
+     "p": 0.041391721655668866,
+     "in_left_insula": 0
+    },
+    {
+     "n_vertices": 9,
+     "p": 0.04539092181563687,
+     "in_left_insula": 0
+    }
+   ],
+   "n_vertices": 56,
+   "rho_range": [
+    0.4514118381984293,
+    0.6696003383836977
+   ]
+  },
+  "ti_max": {
+   "clusters": [
+    {
+     "n_vertices": 1363,
+     "p": 0.0023995200959808036,
+     "in_left_insula": 166
+    }
+   ],
+   "n_vertices": 1363,
+   "rho_range": [
+    0.44884491466683785,
+    0.7686102460307943
+   ]
+  },
+  "hf_max": {
+   "clusters": [
+    {
+     "n_vertices": 673,
+     "p": 0.002599480103979204,
+     "in_left_insula": 1
+    },
+    {
+     "n_vertices": 704,
+     "p": 0.002599480103979204,
+     "in_left_insula": 0
+    },
+    {
+     "n_vertices": 164,
+     "p": 0.021395720855828835,
+     "in_left_insula": 0
+    }
+   ],
+   "n_vertices": 1541,
+   "rho_range": [
+    0.44884491466683785,
+    0.7953795914316759
+   ]
+  }
+ }
+}

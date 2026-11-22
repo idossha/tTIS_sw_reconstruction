@@ -1,0 +1,78 @@
+{
+  "stim": {
+    "between_involve_p": 0.3656555550950913,
+    "between_amp_p": 0.46073905621706224,
+    "rate_vs_amp": {
+      "tTIS": {
+        "rho": -0.007697947214076245,
+        "p": 0.9666468330034554
+      },
+      "carrier-only": {
+        "rho": 0.7090909090909092,
+        "p": 0.014552051953727706
+      }
+    },
+    "tTIS": {
+      "n": 32,
+      "involve_median_change": 0.006536469093999145,
+      "involve_p": 0.0023907003924250603,
+      "amp_median_change_uv": 0.7175386620543733,
+      "amp_p": 0.2539480281993747,
+      "rho_amp_involve": 0.5916422287390029,
+      "rho_p": 0.0003618679247344331,
+      "rho_rate_involve": -0.035923753665689145,
+      "rho_rate_p": 0.8452417765442579,
+      "rate_median_change_pct": 14.766915310668605
+    },
+    "carrier-only": {
+      "n": 11,
+      "involve_median_change": 0.019793210885043933,
+      "involve_p": 0.0068359375,
+      "amp_median_change_uv": -0.7688068581946794,
+      "amp_p": 1.0,
+      "rho_amp_involve": 0.790909090909091,
+      "rho_p": 0.0037460829533974057,
+      "rho_rate_involve": 0.9181818181818183,
+      "rho_rate_p": 6.661451941355567e-05,
+      "rate_median_change_pct": 5.110673849958514
+    }
+  },
+  "post": {
+    "between_involve_p": 0.29657022594555804,
+    "between_amp_p": 0.5311247501171199,
+    "rate_vs_amp": {
+      "tTIS": {
+        "rho": -0.13343108504398826,
+        "p": 0.466592197365243
+      },
+      "carrier-only": {
+        "rho": -0.19090909090909092,
+        "p": 0.5739131682855215
+      }
+    },
+    "tTIS": {
+      "n": 32,
+      "involve_median_change": 0.014115657451242658,
+      "involve_p": 0.0015479698777198792,
+      "amp_median_change_uv": 1.1924597141139301,
+      "amp_p": 0.022786711808294058,
+      "rho_amp_involve": 0.6180351906158357,
+      "rho_p": 0.00016371897368157922,
+      "rho_rate_involve": 0.0502199413489736,
+      "rho_rate_p": 0.7848867383020129,
+      "rate_median_change_pct": 22.030232113077087
+    },
+    "carrier-only": {
+      "n": 11,
+      "involve_median_change": 0.0177935668778528,
+      "involve_p": 0.0029296875,
+      "amp_median_change_uv": 0.4680589627570271,
+      "amp_p": 0.5771484375,
+      "rho_amp_involve": 0.6454545454545455,
+      "rho_p": 0.031962799328017454,
+      "rho_rate_involve": -0.17272727272727276,
+      "rho_rate_p": 0.611542384851237,
+      "rate_median_change_pct": 12.309354732168764
+    }
+  }
+}

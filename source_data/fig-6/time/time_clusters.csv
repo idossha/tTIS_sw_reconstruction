@@ -1,0 +1,3 @@
+test,t_start_s,t_stop_s,n_steps,mass,sign,p_cluster,n
+ti_max,30,150,4,10.0844,+,0.0121988,32
+hf_max,30,150,4,11.2877,+,0.00989901,32

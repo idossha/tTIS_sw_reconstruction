@@ -1,0 +1,67 @@
+group,t_s,mean,sem,size
+carrier-only,-195,0.612926,1.60094,10
+carrier-only,-165,0.387859,1.06849,11
+carrier-only,-135,1.63831,0.849622,11
+carrier-only,-105,-0.994656,1.00967,11
+carrier-only,-75,-1.30478,1.07046,11
+carrier-only,-45,-0.566266,0.80088,11
+carrier-only,-15,0.710907,0.968099,11
+carrier-only,15,-1.18364,1.77276,10
+carrier-only,45,-1.51359,1.66633,11
+carrier-only,75,-0.546168,2.03446,11
+carrier-only,105,2.7221,2.78458,11
+carrier-only,135,3.20969,2.83849,11
+carrier-only,165,4.17043,2.54654,11
+carrier-only,195,3.82471,2.13195,11
+carrier-only,225,5.75345,2.36169,11
+carrier-only,255,4.98565,2.68328,10
+carrier-only,285,4.3972,2.43212,11
+carrier-only,315,3.82045,2.39747,11
+carrier-only,345,4.03427,2.50592,11
+carrier-only,375,4.81577,2.79636,10
+carrier-only,405,6.14755,2.49243,10
+carrier-only,435,8.61718,1.201,9
+"tTIS, higher dose",-195,0.571455,2.67288,15
+"tTIS, higher dose",-165,0.33637,1.21157,16
+"tTIS, higher dose",-135,0.277829,1.17264,16
+"tTIS, higher dose",-105,-2.0419,1.02503,16
+"tTIS, higher dose",-75,0.157992,1.41968,16
+"tTIS, higher dose",-45,0.386344,1.2238,16
+"tTIS, higher dose",-15,0.0851972,1.47212,16
+"tTIS, higher dose",15,2.65407,1.70633,15
+"tTIS, higher dose",45,3.28281,1.61519,16
+"tTIS, higher dose",75,1.31596,1.68273,16
+"tTIS, higher dose",105,3.71737,2.33686,16
+"tTIS, higher dose",135,3.64559,2.09127,16
+"tTIS, higher dose",165,1.09611,1.94986,16
+"tTIS, higher dose",195,4.30071,2.4867,16
+"tTIS, higher dose",225,7.25843,2.53957,16
+"tTIS, higher dose",255,4.61975,2.92499,16
+"tTIS, higher dose",285,5.90024,3.46655,16
+"tTIS, higher dose",315,8.74241,3.6904,16
+"tTIS, higher dose",345,8.85422,3.6258,16
+"tTIS, higher dose",375,8.42952,3.68806,16
+"tTIS, higher dose",405,10.0972,3.69193,15
+"tTIS, higher dose",435,11.9498,3.80716,13
+"tTIS, lower dose",-195,-2.54137,1.43837,15
+"tTIS, lower dose",-165,0.0433553,1.55036,15
+"tTIS, lower dose",-135,-0.10464,0.983814,16
+"tTIS, lower dose",-105,0.131234,0.931367,16
+"tTIS, lower dose",-75,1.68211,1.02191,16
+"tTIS, lower dose",-45,0.611379,1.38162,16
+"tTIS, lower dose",-15,0.712594,1.4436,16
+"tTIS, lower dose",15,-1.04447,1.51463,16
+"tTIS, lower dose",45,-0.746358,1.91032,16
+"tTIS, lower dose",75,-1.12398,1.66292,16
+"tTIS, lower dose",105,-1.70861,1.79304,16
+"tTIS, lower dose",135,-1.40656,2.02924,16
+"tTIS, lower dose",165,1.53235,1.89112,16
+"tTIS, lower dose",195,3.09101,2.13322,16
+"tTIS, lower dose",225,6.02011,2.32877,16
+"tTIS, lower dose",255,3.6011,2.43434,16
+"tTIS, lower dose",285,2.28483,2.90218,16
+"tTIS, lower dose",315,2.74945,2.97252,16
+"tTIS, lower dose",345,3.43887,2.67181,16
+"tTIS, lower dose",375,1.09851,2.81302,15
+"tTIS, lower dose",405,3.77435,3.60673,15
+"tTIS, lower dose",435,3.35671,3.18965,15

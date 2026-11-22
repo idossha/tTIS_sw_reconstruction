@@ -1,0 +1,87 @@
+{
+  "schema": 3,
+  "id": "fig-6",
+  "width": {
+    "mm": 178
+  },
+  "letters": {
+    "size_pt": 9,
+    "weight": "bold",
+    "case": "upper"
+  },
+  "producers": [
+    {
+      "id": "make",
+      "run": [
+        "python",
+        "figures/fig-6/make.py"
+      ],
+      "inputs": [
+        "source_data/fig-6/maps/*.png",
+        "source_data/fig-6/maps/stats.json",
+        "source_data/fig-6/dose/stats.json",
+        "source_data/fig-6/dose/scatter.csv",
+        "source_data/fig-6/dose/bands.csv",
+        "source_data/fig-6/dose/timecourse.csv",
+        "source_data/fig-6/dose/participants.csv",
+        "source_data/fig-6/time/time_steps.csv",
+        "source_data/fig-6/time/time_clusters.csv",
+        "source_data/fig-6/outline/*.png",
+        "source_data/fig-6/explore_bh.csv"
+      ],
+      "panels": [
+        "time",
+        "dose",
+        "maps",
+        "arms"
+      ]
+    }
+  ],
+  "panels": [
+    {
+      "id": "time",
+      "letter": "A",
+      "place": {
+        "x": 0,
+        "y": 0,
+        "w": 88,
+        "h": 62
+      }
+    },
+    {
+      "id": "dose",
+      "letter": "B",
+      "place": {
+        "x": 90,
+        "y": 0,
+        "w": 88,
+        "h": 62
+      }
+    },
+    {
+      "id": "maps",
+      "letter": "C",
+      "place": {
+        "x": 0,
+        "y": 64,
+        "w": 88,
+        "h": 39
+      }
+    },
+    {
+      "id": "arms",
+      "letter": "D",
+      "place": {
+        "x": 90,
+        "y": 59.5,
+        "w": 88,
+        "h": 46
+      },
+      "letter_offset_mm": [
+        0,
+        4
+      ]
+    }
+  ],
+  "annotations": []
+}
